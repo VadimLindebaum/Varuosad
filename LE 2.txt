@@ -9,3 +9,4 @@ STU99900,Andur IR proximity,24.99,12,Andurid,Riiul A3
 VWX11133,Kontaktor ABB 220V,45.00,5,Elektrilised osad,Riiul B1
 YZA44455,Pumba tihend 30mm,9.80,10,Tihendid,Riiul F2
 BCD66677,Toiteplokk 12V 5A,18.75,6,Toiteplokid,Riiul G1
+
