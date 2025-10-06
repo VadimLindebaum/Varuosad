@@ -1,0 +1,90 @@
+{
+  "info": {
+    "name": "Lao API",
+    "_postman_id": "12345678-aaaa-bbbb-cccc-123456789abc",
+    "description": "API päringud lao varuosade süsteemile (CSV → JSON server.js)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Kõik varuosad",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/parts",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["parts"]
+        }
+      }
+    },
+    {
+      "name": "Otsi nime järgi",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/parts?query=mootor",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["parts"],
+          "query": [
+            { "key": "query", "value": "mootor" }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Otsi seerianumbri järgi",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/parts/ABC12345",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["parts", "ABC12345"]
+        }
+      }
+    },
+    {
+      "name": "Sorteerimine ja lehekülgede jagamine",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/parts?query=filter&limit=10&page=2&sort_by=price&sort_order=desc",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["parts"],
+          "query": [
+            { "key": "query", "value": "filter" },
+            { "key": "limit", "value": "10" },
+            { "key": "page", "value": "2" },
+            { "key": "sort_by", "value": "price" },
+            { "key": "sort_order", "value": "desc" }
+          ]
+        }
+      }
+    },
+    {
+      "name": "CSV uuesti laadimine",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/reload",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["reload"]
+        }
+      }
+    }
+  ]
+}
