@@ -1,0 +1,11 @@
+Serial,Name,Price,Qty,Category,Location
+ABC12345,Mootor 220V,129.90,3,Elektrimootorid,Riiul A1
+DEF67890,Käigukast 5HP,299.00,1,Ülekandeseadmed,Riiul B2
+GHI11122,Õlifilter 12mm,5.20,42,Filtrid,Riiul C3
+JKL33344,Laager SKF 608ZZ,2.80,150,Laagrid,Riiul C1
+MNO55566,Voolukaabel 5m,12.00,25,Juhtmed,Riiul D4
+PQR77788,Kaitsmehoidja 10A,1.50,80,Kaitsmed,Riiul E1
+STU99900,Andur IR proximity,24.99,12,Andurid,Riiul A3
+VWX11133,Kontaktor ABB 220V,45.00,5,Elektrilised osad,Riiul B1
+YZA44455,Pumba tihend 30mm,9.80,10,Tihendid,Riiul F2
+BCD66677,Toiteplokk 12V 5A,18.75,6,Toiteplokid,Riiul G1
