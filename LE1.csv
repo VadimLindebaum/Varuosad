@@ -1,0 +1,989 @@
+Serial,Name,Price,Qty,Category,Location
+,,,,,
+ABC12345,Mootor 220V,129.9,3,Elektrimootorid,Riiul A1
+,,,,,
+DEF67890,Käigukast 5HP,299,1,Ülekandeseadmed,Riiul B2
+,,,,,
+GHI11122,Õlifilter 12mm,5.2,42,Filtrid,Riiul C3
+,,,,,
+JKL33344,Laager SKF 608ZZ,2.8,150,Laagrid,Riiul C1
+,,,,,
+MNO55566,Voolukaabel 5m,12,25,Juhtmed,Riiul D4
+,,,,,
+PQR77788,Kaitsmehoidja 10A,1.5,80,Kaitsmed,Riiul E1
+,,,,,
+STU99900,Andur IR proximity,24.99,12,Andurid,Riiul A3
+,,,,,
+VWX11133,Kontaktor ABB 220V,45,5,Elektrilised osad,Riiul B1
+,,,,,
+YZA44455,Pumba tihend 30mm,9.8,10,Tihendid,Riiul F2
+,,,,,
+BCD66677,Toiteplokk 12V 5A,18.75,6,Toiteplokid,Riiul G1
+,,,,,
+VWX00011,Toiteplokk 12V 5A,17.88,77,Toiteplokid,Riiul A1
+,,,,,
+MNO00012,Kontaktor ABB 220V,1.4,408,Kaitsmed,Riiul A3
+,,,,,
+MNO00013,Andur IR proximity,11.75,499,Juhtmed,Riiul D1
+,,,,,
+MNO00014,Pumba tihend 30mm (XL16),2.1,463,Laagrid,Riiul B2
+,,,,,
+JKL00015,Käigukast 5HP (S11),236.66,377,Ülekandeseadmed,Riiul B2
+,,,,,
+STU00016,Mootor 220V,55.56,467,Elektrilised osad,Riiul C1
+,,,,,
+YZA00017,Voolukaabel 5m,310.53,187,Ülekandeseadmed,Riiul C3
+,,,,,
+GHI00018,Kaitsmehoidja 10A,6.06,419,Filtrid,Riiul B2
+,,,,,
+JKL00019,Mootor 220V,50.42,54,Elektrilised osad,Riiul A1
+,,,,,
+DEF00020,Õlifilter 12mm,3.68,130,Filtrid,Riiul C3
+,,,,,
+JKL00021,Toiteplokk 12V 5A (L16),2.97,127,Laagrid,Riiul D1
+,,,,,
+VWX00022,Kaitsmehoidja 10A,16.9,152,Toiteplokid,Riiul B2
+,,,,,
+PQR00023,Toiteplokk 12V 5A,15.17,344,Toiteplokid,Riiul A2
+,,,,,
+GHI00024,Õlifilter 12mm,223.13,165,Ülekandeseadmed,Riiul B2
+,,,,,
+JKL00025,Kaitsmehoidja 10A (S11),5.54,417,Filtrid,Riiul C1
+,,,,,
+MNO00026,Toiteplokk 12V 5A,217.68,265,Ülekandeseadmed,Riiul B2
+,,,,,
+PQR00027,Voolukaabel 5m,287.82,98,Ülekandeseadmed,Riiul D4
+,,,,,
+STU00028,Pumba tihend 30mm,159.49,484,Elektrimootorid,Riiul A2
+,,,,,
+MNO00029,Pumba tihend 30mm,1.29,206,Kaitsmed,Riiul A1
+,,,,,
+STU00030,Laager SKF 608ZZ,14.08,425,Juhtmed,Riiul C2
+,,,,,
+JKL00031,Voolukaabel 5m,224.15,0,Ülekandeseadmed,Riiul A2
+,,,,,
+YZA00032,Toiteplokk 12V 5A,3.78,83,Filtrid,Riiul G1
+,,,,,
+YZA00033,Õlifilter 12mm,8.14,337,Tihendid,Riiul D4
+,,,,,
+JKL00034,Õlifilter 12mm (XL19),4.16,275,Filtrid,Riiul G1
+,,,,,
+ABC00035,Mootor 220V,110.8,387,Elektrimootorid,Riiul A2
+,,,,,
+STU00036,Toiteplokk 12V 5A,152.32,186,Elektrimootorid,Riiul C3
+,,,,,
+GHI00037,Õlifilter 12mm,2.27,26,Laagrid,Riiul C2
+,,,,,
+MNO00038,Kaitsmehoidja 10A,1.3,184,Kaitsmed,Riiul A2
+,,,,,
+STU00039,Kontaktor ABB 220V,19.65,267,Toiteplokid,Riiul A3
+,,,,,
+JKL00040,Kaitsmehoidja 10A,243.68,158,Ülekandeseadmed,Riiul C3
+,,,,,
+YZA00041,Käigukast 5HP (L7),46.12,206,Elektrilised osad,Riiul B3
+,,,,,
+ABC00042,Andur IR proximity,1.15,495,Kaitsmed,Riiul E1
+,,,,,
+YZA00043,Laager SKF 608ZZ,1.2,113,Kaitsmed,Riiul A1
+,,,,,
+GHI00044,Kaitsmehoidja 10A (S11),15.35,51,Juhtmed,Riiul B2
+,,,,,
+DEF00045,Õlifilter 12mm,2.5,272,Laagrid,Riiul D4
+,,,,,
+MNO00046,Andur IR proximity,19.82,8,Toiteplokid,Riiul A2
+,,,,,
+GHI00047,Kaitsmehoidja 10A (XL8),6.53,380,Filtrid,Riiul D4
+,,,,,
+GHI00048,Õlifilter 12mm (L2),3.34,434,Laagrid,Riiul C3
+,,,,,
+PQR00049,Mootor 220V,3.71,444,Filtrid,Riiul C1
+,,,,,
+GHI00050,Kontaktor ABB 220V,17.08,57,Toiteplokid,Riiul F2
+,,,,,
+DEF00051,Voolukaabel 5m (S18),343.88,405,Ülekandeseadmed,Riiul A3
+,,,,,
+DEF00052,Pumba tihend 30mm,26.03,415,Andurid,Riiul G1
+,,,,,
+PQR00053,Õlifilter 12mm,236.81,166,Ülekandeseadmed,Riiul A1
+,,,,,
+VWX00054,Õlifilter 12mm,2.27,19,Laagrid,Riiul C3
+,,,,,
+MNO00055,Kontaktor ABB 220V,1.82,64,Kaitsmed,Riiul B3
+,,,,,
+PQR00056,Kontaktor ABB 220V,317.69,120,Ülekandeseadmed,Riiul A2
+,,,,,
+GHI00057,Õlifilter 12mm,11.31,345,Juhtmed,Riiul F2
+,,,,,
+BCD00058,Laager SKF 608ZZ,56.64,243,Elektrilised osad,Riiul F2
+,,,,,
+PQR00059,Kaitsmehoidja 10A,12.51,181,Juhtmed,Riiul B2
+,,,,,
+GHI00060,Pumba tihend 30mm,338.76,468,Ülekandeseadmed,Riiul C1
+,,,,,
+YZA00061,Pumba tihend 30mm,13.19,379,Juhtmed,Riiul A2
+,,,,,
+ABC00062,Mootor 220V,377.21,249,Ülekandeseadmed,Riiul G1
+,,,,,
+DEF00063,Käigukast 5HP,8.26,140,Tihendid,Riiul A3
+,,,,,
+GHI00064,Toiteplokk 12V 5A,14.11,97,Juhtmed,Riiul C3
+,,,,,
+STU00065,Laager SKF 608ZZ,18.25,165,Toiteplokid,Riiul A3
+,,,,,
+DEF00066,Voolukaabel 5m,3,334,Laagrid,Riiul B3
+,,,,,
+DEF00067,Voolukaabel 5m,57.55,428,Elektrilised osad,Riiul B2
+,,,,,
+STU00068,Kaitsmehoidja 10A,20.21,81,Toiteplokid,Riiul A2
+,,,,,
+YZA00069,Kontaktor ABB 220V,119.65,60,Elektrimootorid,Riiul B3
+,,,,,
+STU00070,Voolukaabel 5m,162.28,110,Elektrimootorid,Riiul D1
+,,,,,
+MNO00071,Voolukaabel 5m,6.74,450,Filtrid,Riiul A3
+,,,,,
+PQR00072,Mootor 220V,251.59,93,Ülekandeseadmed,Riiul D1
+,,,,,
+BCD00073,Kaitsmehoidja 10A,40.98,294,Elektrilised osad,Riiul A1
+,,,,,
+BCD00074,Pumba tihend 30mm,4.7,3,Filtrid,Riiul C1
+,,,,,
+YZA00075,Õlifilter 12mm (XL6),24.7,87,Andurid,Riiul A2
+,,,,,
+BCD00076,Voolukaabel 5m,1.32,338,Kaitsmed,Riiul B1
+,,,,,
+BCD00077,Kontaktor ABB 220V,26.64,28,Andurid,Riiul B2
+,,,,,
+GHI00078,Kaitsmehoidja 10A,14.04,38,Juhtmed,Riiul E1
+,,,,,
+ABC00079,Toiteplokk 12V 5A,51.83,442,Elektrilised osad,Riiul A2
+,,,,,
+VWX00080,Andur IR proximity (XL20),2.91,326,Laagrid,Riiul A3
+,,,,,
+PQR00081,Voolukaabel 5m,6.62,307,Filtrid,Riiul F2
+,,,,,
+GHI00082,Laager SKF 608ZZ,14.23,486,Toiteplokid,Riiul G1
+,,,,,
+ABC00083,Voolukaabel 5m (XL9),41.09,303,Elektrilised osad,Riiul D1
+,,,,,
+VWX00084,Kontaktor ABB 220V (XL4),2.97,29,Laagrid,Riiul C3
+,,,,,
+VWX00085,Kontaktor ABB 220V,1.23,148,Kaitsmed,Riiul B2
+,,,,,
+DEF00086,Käigukast 5HP,21.6,268,Toiteplokid,Riiul C1
+,,,,,
+DEF00087,Mootor 220V,304.64,477,Ülekandeseadmed,Riiul A2
+,,,,,
+JKL00088,Pumba tihend 30mm,1.99,358,Laagrid,Riiul B1
+,,,,,
+STU00089,Pumba tihend 30mm,2.44,399,Laagrid,Riiul G1
+,,,,,
+BCD00090,Mootor 220V,8.01,360,Tihendid,Riiul G1
+,,,,,
+STU00091,Andur IR proximity,9.34,20,Juhtmed,Riiul B1
+,,,,,
+BCD00092,Kontaktor ABB 220V,21.97,463,Andurid,Riiul A2
+,,,,,
+VWX00093,Käigukast 5HP,19.48,330,Andurid,Riiul B2
+,,,,,
+PQR00094,Mootor 220V,2.03,209,Laagrid,Riiul F2
+,,,,,
+VWX00095,Voolukaabel 5m (XL13),4.36,483,Filtrid,Riiul A3
+,,,,,
+BCD00096,Kontaktor ABB 220V (XL3),10.65,374,Tihendid,Riiul E1
+,,,,,
+PQR00097,Käigukast 5HP,43.09,56,Elektrilised osad,Riiul B2
+,,,,,
+JKL00098,Kontaktor ABB 220V,1.95,291,Kaitsmed,Riiul D1
+,,,,,
+STU00099,Toiteplokk 12V 5A,12.79,263,Juhtmed,Riiul C2
+,,,,,
+JKL00100,Mootor 220V,1.72,310,Kaitsmed,Riiul D4
+,,,,,
+JKL00101,Pumba tihend 30mm,25.49,227,Andurid,Riiul D1
+,,,,,
+DEF00102,Toiteplokk 12V 5A,52.26,46,Elektrilised osad,Riiul B3
+,,,,,
+MNO00103,Mootor 220V,17.31,200,Toiteplokid,Riiul C1
+,,,,,
+GHI00104,Voolukaabel 5m,1.13,189,Kaitsmed,Riiul C3
+,,,,,
+PQR00105,Laager SKF 608ZZ,10.3,353,Juhtmed,Riiul B3
+,,,,,
+VWX00106,Kontaktor ABB 220V,8.49,432,Tihendid,Riiul C2
+,,,,,
+DEF00107,Käigukast 5HP,40.85,488,Elektrilised osad,Riiul B3
+,,,,,
+GHI00108,Käigukast 5HP (L14),8.79,175,Juhtmed,Riiul C1
+,,,,,
+MNO00109,Voolukaabel 5m,17.95,394,Toiteplokid,Riiul A3
+,,,,,
+VWX00110,Kaitsmehoidja 10A (S4),3.52,399,Laagrid,Riiul B1
+,,,,,
+YZA00111,Toiteplokk 12V 5A,13.47,309,Juhtmed,Riiul C3
+,,,,,
+DEF00112,Voolukaabel 5m,274.65,213,Ülekandeseadmed,Riiul E1
+,,,,,
+ABC00113,Pumba tihend 30mm,6.67,353,Filtrid,Riiul A2
+,,,,,
+VWX00114,Pumba tihend 30mm,24.9,124,Andurid,Riiul C1
+,,,,,
+JKL00115,Andur IR proximity,6.64,165,Filtrid,Riiul C2
+,,,,,
+STU00116,Toiteplokk 12V 5A (XL11),4.46,113,Filtrid,Riiul G1
+,,,,,
+JKL00117,Pumba tihend 30mm,11.31,422,Juhtmed,Riiul B2
+,,,,,
+VWX00118,Kontaktor ABB 220V,9.46,190,Tihendid,Riiul A1
+,,,,,
+GHI00119,Mootor 220V,2.81,286,Laagrid,Riiul A3
+,,,,,
+STU00120,Kaitsmehoidja 10A,227.38,135,Ülekandeseadmed,Riiul E1
+,,,,,
+YZA00121,Pumba tihend 30mm,25.16,457,Andurid,Riiul B1
+,,,,,
+BCD00122,Pumba tihend 30mm,6.65,264,Filtrid,Riiul B2
+,,,,,
+ABC00123,Toiteplokk 12V 5A,5.93,227,Filtrid,Riiul B2
+,,,,,
+BCD00124,Õlifilter 12mm,4,429,Filtrid,Riiul B3
+,,,,,
+JKL00125,Pumba tihend 30mm,7.18,359,Tihendid,Riiul E1
+,,,,,
+ABC00126,Voolukaabel 5m (XL16),325.14,260,Ülekandeseadmed,Riiul B1
+,,,,,
+JKL00127,Kontaktor ABB 220V,4.66,413,Filtrid,Riiul B2
+,,,,,
+MNO00128,Mootor 220V,11.9,446,Tihendid,Riiul A1
+,,,,,
+DEF00129,Toiteplokk 12V 5A,100.27,33,Elektrimootorid,Riiul C2
+,,,,,
+YZA00130,Õlifilter 12mm,30.04,323,Andurid,Riiul C3
+,,,,,
+ABC00131,Pumba tihend 30mm,16.97,378,Toiteplokid,Riiul A3
+,,,,,
+STU00132,Mootor 220V,116,307,Elektrimootorid,Riiul G1
+,,,,,
+DEF00133,Kaitsmehoidja 10A,5.77,283,Filtrid,Riiul D4
+,,,,,
+PQR00134,Andur IR proximity,24.3,32,Toiteplokid,Riiul A2
+,,,,,
+VWX00135,Voolukaabel 5m,14.56,244,Toiteplokid,Riiul C3
+,,,,,
+STU00136,Pumba tihend 30mm,12.26,117,Tihendid,Riiul D4
+,,,,,
+ABC00137,Toiteplokk 12V 5A (S9),1.38,466,Kaitsmed,Riiul A1
+,,,,,
+STU00138,Kontaktor ABB 220V,28.6,5,Andurid,Riiul D4
+,,,,,
+MNO00139,Käigukast 5HP,45.3,122,Elektrilised osad,Riiul C3
+,,,,,
+ABC00140,Mootor 220V,113.18,442,Elektrimootorid,Riiul A1
+,,,,,
+BCD00141,Õlifilter 12mm,3.59,405,Laagrid,Riiul B1
+,,,,,
+GHI00142,Pumba tihend 30mm,27.3,21,Andurid,Riiul F2
+,,,,,
+BCD00143,Kaitsmehoidja 10A,56.8,490,Elektrilised osad,Riiul C2
+,,,,,
+ABC00144,Laager SKF 608ZZ,1.51,81,Kaitsmed,Riiul C2
+,,,,,
+DEF00145,Mootor 220V,105.87,37,Elektrimootorid,Riiul A1
+,,,,,
+YZA00146,Laager SKF 608ZZ,1.67,179,Kaitsmed,Riiul B3
+,,,,,
+GHI00147,Laager SKF 608ZZ,1.06,464,Kaitsmed,Riiul C3
+,,,,,
+GHI00148,Toiteplokk 12V 5A,7.2,39,Tihendid,Riiul D4
+,,,,,
+STU00149,Kontaktor ABB 220V,1.18,5,Kaitsmed,Riiul C1
+,,,,,
+DEF00150,Pumba tihend 30mm,321.13,470,Ülekandeseadmed,Riiul A1
+,,,,,
+VWX00151,Pumba tihend 30mm,2.91,94,Laagrid,Riiul A1
+,,,,,
+JKL00152,Laager SKF 608ZZ,1.71,163,Kaitsmed,Riiul F2
+,,,,,
+STU00153,Mootor 220V,9.67,240,Tihendid,Riiul E1
+,,,,,
+GHI00154,Andur IR proximity,365.79,62,Ülekandeseadmed,Riiul C3
+,,,,,
+BCD00155,Kaitsmehoidja 10A,10.54,418,Tihendid,Riiul C3
+,,,,,
+GHI00156,Laager SKF 608ZZ,7.02,41,Tihendid,Riiul B3
+,,,,,
+MNO00157,Kontaktor ABB 220V,13.1,133,Juhtmed,Riiul A1
+,,,,,
+YZA00158,Voolukaabel 5m,12.33,470,Juhtmed,Riiul G1
+,,,,,
+VWX00159,Laager SKF 608ZZ (L6),234.97,339,Ülekandeseadmed,Riiul A1
+,,,,,
+MNO00160,Kaitsmehoidja 10A,7.09,193,Tihendid,Riiul E1
+,,,,,
+STU00161,Voolukaabel 5m (L18),3.28,331,Laagrid,Riiul B3
+,,,,,
+ABC00162,Õlifilter 12mm,11.01,132,Juhtmed,Riiul D1
+,,,,,
+JKL00163,Kaitsmehoidja 10A,20.51,486,Toiteplokid,Riiul B1
+,,,,,
+JKL00164,Pumba tihend 30mm (XL16),30.13,69,Andurid,Riiul B1
+,,,,,
+DEF00165,Mootor 220V,5.98,280,Filtrid,Riiul C1
+,,,,,
+VWX00166,Voolukaabel 5m (XL20),13.25,75,Toiteplokid,Riiul B3
+,,,,,
+GHI00167,Kontaktor ABB 220V,9.9,487,Juhtmed,Riiul B1
+,,,,,
+BCD00168,Kaitsmehoidja 10A,20.23,127,Toiteplokid,Riiul B3
+,,,,,
+GHI00169,Kontaktor ABB 220V,5.73,181,Filtrid,Riiul A2
+,,,,,
+DEF00170,Pumba tihend 30mm,12.22,419,Tihendid,Riiul C1
+,,,,,
+YZA00171,Andur IR proximity,23.35,47,Toiteplokid,Riiul B1
+,,,,,
+BCD00172,Andur IR proximity,1.7,212,Kaitsmed,Riiul A3
+,,,,,
+YZA00173,Õlifilter 12mm,24.27,375,Andurid,Riiul A2
+,,,,,
+ABC00174,Andur IR proximity (XL10),12.6,472,Juhtmed,Riiul G1
+,,,,,
+YZA00175,Õlifilter 12mm,9.73,145,Tihendid,Riiul B3
+,,,,,
+JKL00176,Toiteplokk 12V 5A,50.22,486,Elektrilised osad,Riiul A1
+,,,,,
+PQR00177,Andur IR proximity,52.32,30,Elektrilised osad,Riiul C1
+,,,,,
+MNO00178,Õlifilter 12mm,2.28,71,Laagrid,Riiul G1
+,,,,,
+BCD00179,Toiteplokk 12V 5A,6.61,241,Filtrid,Riiul C1
+,,,,,
+YZA00180,Laager SKF 608ZZ,1.94,285,Kaitsmed,Riiul A3
+,,,,,
+GHI00181,Kontaktor ABB 220V,7.81,269,Tihendid,Riiul G1
+,,,,,
+VWX00182,Kontaktor ABB 220V,121.97,365,Elektrimootorid,Riiul G1
+,,,,,
+VWX00183,Pumba tihend 30mm,23.29,282,Toiteplokid,Riiul C3
+,,,,,
+ABC00184,Mootor 220V,57.3,79,Elektrilised osad,Riiul A1
+,,,,,
+BCD00185,Mootor 220V,147.77,369,Elektrimootorid,Riiul A2
+,,,,,
+PQR00186,Mootor 220V,1.71,273,Kaitsmed,Riiul E1
+,,,,,
+GHI00187,Kaitsmehoidja 10A,299.22,189,Ülekandeseadmed,Riiul G1
+,,,,,
+VWX00188,Mootor 220V,31.73,75,Andurid,Riiul D4
+,,,,,
+YZA00189,Andur IR proximity,1.37,99,Kaitsmed,Riiul B1
+,,,,,
+DEF00190,Pumba tihend 30mm,3.32,353,Laagrid,Riiul A2
+,,,,,
+STU00191,Toiteplokk 12V 5A,128.22,342,Elektrimootorid,Riiul A3
+,,,,,
+ABC00192,Käigukast 5HP,20.91,343,Andurid,Riiul C3
+,,,,,
+DEF00193,Pumba tihend 30mm,145.98,241,Elektrimootorid,Riiul D1
+,,,,,
+GHI00194,Käigukast 5HP,15.76,394,Toiteplokid,Riiul B1
+,,,,,
+YZA00195,Mootor 220V,101.53,459,Elektrimootorid,Riiul G1
+,,,,,
+ABC00196,Õlifilter 12mm,4.06,22,Filtrid,Riiul C2
+,,,,,
+YZA00197,Pumba tihend 30mm,4.21,155,Filtrid,Riiul D1
+,,,,,
+MNO00198,Kaitsmehoidja 10A,150.36,184,Elektrimootorid,Riiul C1
+,,,,,
+ABC00199,Pumba tihend 30mm,41.38,430,Elektrilised osad,Riiul D4
+,,,,,
+BCD00200,Voolukaabel 5m,6.17,487,Filtrid,Riiul E1
+,,,,,
+JKL00201,Laager SKF 608ZZ (S4),39.93,440,Elektrilised osad,Riiul G1
+,,,,,
+JKL00202,Voolukaabel 5m,40.42,195,Elektrilised osad,Riiul D1
+,,,,,
+BCD00203,Kontaktor ABB 220V,16.65,440,Toiteplokid,Riiul D1
+,,,,,
+VWX00204,Õlifilter 12mm,8.87,188,Juhtmed,Riiul A3
+,,,,,
+GHI00205,Laager SKF 608ZZ,20.23,331,Andurid,Riiul A1
+,,,,,
+ABC00206,Kontaktor ABB 220V (XL18),1.49,265,Kaitsmed,Riiul A1
+,,,,,
+JKL00207,Laager SKF 608ZZ,17.9,115,Toiteplokid,Riiul B3
+,,,,,
+BCD00208,Laager SKF 608ZZ,9.68,95,Juhtmed,Riiul B1
+,,,,,
+ABC00209,Andur IR proximity,50.19,457,Elektrilised osad,Riiul D4
+,,,,,
+YZA00210,Pumba tihend 30mm,7.28,294,Tihendid,Riiul F2
+,,,,,
+MNO00211,Kontaktor ABB 220V,11.06,39,Tihendid,Riiul A2
+,,,,,
+JKL00212,Pumba tihend 30mm (S14),7.81,450,Tihendid,Riiul C2
+,,,,,
+MNO00213,Käigukast 5HP,134.25,77,Elektrimootorid,Riiul B2
+,,,,,
+GHI00214,Käigukast 5HP,16.28,471,Toiteplokid,Riiul E1
+,,,,,
+STU00215,Kaitsmehoidja 10A,10.97,458,Juhtmed,Riiul D4
+,,,,,
+PQR00216,Kontaktor ABB 220V,26.7,360,Andurid,Riiul A2
+,,,,,
+VWX00217,Mootor 220V,2.79,494,Laagrid,Riiul D1
+,,,,,
+BCD00218,Andur IR proximity,22.84,149,Toiteplokid,Riiul A1
+,,,,,
+VWX00219,Voolukaabel 5m,25.77,285,Andurid,Riiul A1
+,,,,,
+STU00220,Toiteplokk 12V 5A,4.42,226,Filtrid,Riiul B3
+,,,,,
+ABC00221,Voolukaabel 5m,388.34,109,Ülekandeseadmed,Riiul B2
+,,,,,
+STU00222,Andur IR proximity (S6),12.29,341,Tihendid,Riiul C2
+,,,,,
+JKL00223,Käigukast 5HP,234.76,65,Ülekandeseadmed,Riiul C1
+,,,,,
+ABC00224,Pumba tihend 30mm,22.2,490,Toiteplokid,Riiul G1
+,,,,,
+MNO00225,Laager SKF 608ZZ,11.2,76,Juhtmed,Riiul B3
+,,,,,
+BCD00226,Laager SKF 608ZZ,9.44,322,Juhtmed,Riiul B1
+,,,,,
+STU00227,Pumba tihend 30mm,9.39,25,Tihendid,Riiul D1
+,,,,,
+STU00228,Mootor 220V,13.38,103,Toiteplokid,Riiul F2
+,,,,,
+JKL00229,Mootor 220V (XL9),15.7,5,Toiteplokid,Riiul E1
+,,,,,
+BCD00230,Pumba tihend 30mm,275.97,467,Ülekandeseadmed,Riiul D4
+,,,,,
+GHI00231,Käigukast 5HP (XL11),154.76,299,Elektrimootorid,Riiul C2
+,,,,,
+VWX00232,Voolukaabel 5m,2.03,8,Laagrid,Riiul G1
+,,,,,
+JKL00233,Kontaktor ABB 220V,4.26,104,Filtrid,Riiul B1
+,,,,,
+BCD00234,Pumba tihend 30mm,8.85,80,Tihendid,Riiul A1
+,,,,,
+JKL00235,Käigukast 5HP,9.19,5,Juhtmed,Riiul B2
+,,,,,
+GHI00236,Mootor 220V,1.06,487,Kaitsmed,Riiul E1
+,,,,,
+VWX00237,Kontaktor ABB 220V,13.23,184,Juhtmed,Riiul D4
+,,,,,
+YZA00238,Käigukast 5HP,13.48,179,Toiteplokid,Riiul B1
+,,,,,
+PQR00239,Toiteplokk 12V 5A,3.41,202,Laagrid,Riiul B3
+,,,,,
+VWX00240,Kontaktor ABB 220V,10.97,85,Tihendid,Riiul C2
+,,,,,
+STU00241,Õlifilter 12mm (L9),273.88,97,Ülekandeseadmed,Riiul B1
+,,,,,
+GHI00242,Andur IR proximity,1.35,78,Kaitsmed,Riiul C1
+,,,,,
+VWX00243,Laager SKF 608ZZ (L12),15.18,80,Juhtmed,Riiul F2
+,,,,,
+ABC00244,Laager SKF 608ZZ (S3),1.73,293,Kaitsmed,Riiul D1
+,,,,,
+ABC00245,Andur IR proximity,2.44,42,Laagrid,Riiul F2
+,,,,,
+VWX00246,Toiteplokk 12V 5A (XL14),377.48,253,Ülekandeseadmed,Riiul B2
+,,,,,
+MNO00247,Kaitsmehoidja 10A,13.4,110,Juhtmed,Riiul C3
+,,,,,
+GHI00248,Toiteplokk 12V 5A,18.22,244,Toiteplokid,Riiul A2
+,,,,,
+BCD00249,Õlifilter 12mm (S11),1.94,219,Kaitsmed,Riiul B3
+,,,,,
+GHI00250,Andur IR proximity,5.16,241,Filtrid,Riiul D1
+,,,,,
+STU00251,Õlifilter 12mm,4.45,188,Filtrid,Riiul C3
+,,,,,
+ABC00252,Andur IR proximity,46.52,457,Elektrilised osad,Riiul A2
+,,,,,
+STU00253,Pumba tihend 30mm,4.52,37,Filtrid,Riiul B1
+,,,,,
+YZA00254,Mootor 220V,1.38,2,Kaitsmed,Riiul D1
+,,,,,
+PQR00255,Laager SKF 608ZZ,36.3,335,Elektrilised osad,Riiul B2
+,,,,,
+DEF00256,Mootor 220V,7.02,264,Tihendid,Riiul A2
+,,,,,
+ABC00257,Käigukast 5HP (XL12),11.43,144,Tihendid,Riiul C2
+,,,,,
+DEF00258,Õlifilter 12mm,329.26,405,Ülekandeseadmed,Riiul B2
+,,,,,
+PQR00259,Laager SKF 608ZZ,6.99,403,Tihendid,Riiul C2
+,,,,,
+YZA00260,Mootor 220V (L5),373.65,150,Ülekandeseadmed,Riiul F2
+,,,,,
+JKL00261,Mootor 220V,11.76,368,Tihendid,Riiul B2
+,,,,,
+DEF00262,Õlifilter 12mm,1.18,333,Kaitsmed,Riiul C2
+,,,,,
+VWX00263,Andur IR proximity,160.92,6,Elektrimootorid,Riiul A3
+,,,,,
+YZA00264,Õlifilter 12mm,365.66,263,Ülekandeseadmed,Riiul D1
+,,,,,
+STU00265,Mootor 220V,12.66,350,Juhtmed,Riiul A3
+,,,,,
+PQR00266,Pumba tihend 30mm,5.63,204,Filtrid,Riiul D4
+,,,,,
+DEF00267,Voolukaabel 5m,2.34,276,Laagrid,Riiul E1
+,,,,,
+STU00268,Käigukast 5HP (L13),18.32,277,Andurid,Riiul A1
+,,,,,
+PQR00269,Õlifilter 12mm (L9),347.14,166,Ülekandeseadmed,Riiul C3
+,,,,,
+JKL00270,Kontaktor ABB 220V,9.33,407,Tihendid,Riiul B2
+,,,,,
+GHI00271,Laager SKF 608ZZ,1.63,213,Kaitsmed,Riiul C2
+,,,,,
+DEF00272,Pumba tihend 30mm,1.35,360,Kaitsmed,Riiul A3
+,,,,,
+JKL00273,Pumba tihend 30mm,1.57,119,Kaitsmed,Riiul B1
+,,,,,
+PQR00274,Kaitsmehoidja 10A (L5),5.69,327,Filtrid,Riiul F2
+,,,,,
+YZA00275,Toiteplokk 12V 5A,6.74,438,Filtrid,Riiul B2
+,,,,,
+JKL00276,Kaitsmehoidja 10A (L6),367.25,197,Ülekandeseadmed,Riiul D1
+,,,,,
+STU00277,Kaitsmehoidja 10A (L5),160.45,360,Elektrimootorid,Riiul B3
+,,,,,
+YZA00278,Käigukast 5HP,54.02,125,Elektrilised osad,Riiul A1
+,,,,,
+BCD00279,Andur IR proximity,2,483,Laagrid,Riiul B2
+,,,,,
+STU00280,Õlifilter 12mm,6.14,305,Filtrid,Riiul E1
+,,,,,
+JKL00281,Pumba tihend 30mm,103.97,253,Elektrimootorid,Riiul C1
+,,,,,
+GHI00282,Voolukaabel 5m,12.03,3,Juhtmed,Riiul B3
+,,,,,
+MNO00283,Voolukaabel 5m,11.78,41,Tihendid,Riiul G1
+,,,,,
+PQR00284,Voolukaabel 5m,5.59,231,Filtrid,Riiul F2
+,,,,,
+DEF00285,Kaitsmehoidja 10A,18.84,176,Toiteplokid,Riiul A2
+,,,,,
+YZA00286,Õlifilter 12mm,2.91,173,Laagrid,Riiul C1
+,,,,,
+ABC00287,Laager SKF 608ZZ (L7),1.09,170,Kaitsmed,Riiul C3
+,,,,,
+YZA00288,Kaitsmehoidja 10A,3.04,34,Laagrid,Riiul A1
+,,,,,
+STU00289,Voolukaabel 5m,21.4,51,Andurid,Riiul A2
+,,,,,
+VWX00290,Toiteplokk 12V 5A,52.29,396,Elektrilised osad,Riiul G1
+,,,,,
+MNO00291,Kontaktor ABB 220V,47.04,471,Elektrilised osad,Riiul A1
+,,,,,
+STU00292,Voolukaabel 5m (XL14),254.89,389,Ülekandeseadmed,Riiul B2
+,,,,,
+MNO00293,Pumba tihend 30mm (L4),2.52,222,Laagrid,Riiul C2
+,,,,,
+YZA00294,Andur IR proximity,121.93,291,Elektrimootorid,Riiul C1
+,,,,,
+YZA00295,Laager SKF 608ZZ,9.98,61,Juhtmed,Riiul D1
+,,,,,
+YZA00296,Pumba tihend 30mm,12.49,385,Juhtmed,Riiul F2
+,,,,,
+BCD00297,Toiteplokk 12V 5A,331.69,162,Ülekandeseadmed,Riiul A3
+,,,,,
+YZA00298,Laager SKF 608ZZ,165.09,294,Elektrimootorid,Riiul C3
+,,,,,
+MNO00299,Toiteplokk 12V 5A,13.73,374,Juhtmed,Riiul C3
+,,,,,
+STU00300,Kontaktor ABB 220V,1.46,253,Kaitsmed,Riiul A2
+,,,,,
+JKL00301,Kaitsmehoidja 10A,43.62,376,Elektrilised osad,Riiul G1
+,,,,,
+STU00302,Käigukast 5HP,14.83,121,Toiteplokid,Riiul A3
+,,,,,
+MNO00303,Laager SKF 608ZZ (S17),6.96,103,Tihendid,Riiul E1
+,,,,,
+MNO00304,Andur IR proximity,382.89,69,Ülekandeseadmed,Riiul G1
+,,,,,
+MNO00305,Andur IR proximity,14.59,400,Juhtmed,Riiul A3
+,,,,,
+VWX00306,Mootor 220V,135.46,228,Elektrimootorid,Riiul A3
+,,,,,
+JKL00307,Toiteplokk 12V 5A,35.39,119,Elektrilised osad,Riiul C1
+,,,,,
+MNO00308,Toiteplokk 12V 5A (XL10),14.38,119,Toiteplokid,Riiul A3
+,,,,,
+STU00309,Õlifilter 12mm,22.37,63,Andurid,Riiul A1
+,,,,,
+YZA00310,Andur IR proximity,7.97,168,Tihendid,Riiul A2
+,,,,,
+VWX00311,Õlifilter 12mm (S18),246.08,116,Ülekandeseadmed,Riiul A1
+,,,,,
+GHI00312,Laager SKF 608ZZ,8.99,37,Juhtmed,Riiul A2
+,,,,,
+YZA00313,Õlifilter 12mm,23.17,23,Toiteplokid,Riiul A1
+,,,,,
+JKL00314,Käigukast 5HP,47.79,280,Elektrilised osad,Riiul B1
+,,,,,
+DEF00315,Õlifilter 12mm,2.74,359,Laagrid,Riiul E1
+,,,,,
+VWX00316,Laager SKF 608ZZ,1.76,148,Kaitsmed,Riiul A3
+,,,,,
+PQR00317,Pumba tihend 30mm,53.5,92,Elektrilised osad,Riiul B1
+,,,,,
+VWX00318,Kaitsmehoidja 10A,19.5,433,Andurid,Riiul A1
+,,,,,
+MNO00319,Mootor 220V,286.4,341,Ülekandeseadmed,Riiul C3
+,,,,,
+PQR00320,Mootor 220V,1.18,279,Kaitsmed,Riiul B1
+,,,,,
+STU00321,Käigukast 5HP,2.75,79,Laagrid,Riiul E1
+,,,,,
+YZA00322,Voolukaabel 5m,3.5,147,Laagrid,Riiul B2
+,,,,,
+ABC00323,Õlifilter 12mm,5.81,346,Filtrid,Riiul B1
+,,,,,
+MNO00324,Kaitsmehoidja 10A,148.08,357,Elektrimootorid,Riiul B1
+,,,,,
+DEF00325,Andur IR proximity,13.05,201,Juhtmed,Riiul A3
+,,,,,
+STU00326,Laager SKF 608ZZ,335.82,373,Ülekandeseadmed,Riiul E1
+,,,,,
+JKL00327,Andur IR proximity,1.35,283,Kaitsmed,Riiul C1
+,,,,,
+GHI00328,Käigukast 5HP,5.92,457,Filtrid,Riiul B3
+,,,,,
+ABC00329,Toiteplokk 12V 5A,6.55,495,Filtrid,Riiul C1
+,,,,,
+JKL00330,Õlifilter 12mm,26.49,288,Andurid,Riiul B1
+,,,,,
+STU00331,Käigukast 5HP,141.81,343,Elektrimootorid,Riiul A1
+,,,,,
+PQR00332,Pumba tihend 30mm,149.73,49,Elektrimootorid,Riiul E1
+,,,,,
+ABC00333,Mootor 220V,1.44,209,Kaitsmed,Riiul F2
+,,,,,
+JKL00334,Voolukaabel 5m,42.71,14,Elektrilised osad,Riiul C3
+,,,,,
+YZA00335,Toiteplokk 12V 5A,15.58,4,Toiteplokid,Riiul C1
+,,,,,
+PQR00336,Voolukaabel 5m (XL4),42.83,493,Elektrilised osad,Riiul A1
+,,,,,
+GHI00337,Pumba tihend 30mm,49.46,210,Elektrilised osad,Riiul B2
+,,,,,
+BCD00338,Kontaktor ABB 220V,12.3,171,Juhtmed,Riiul B3
+,,,,,
+VWX00339,Õlifilter 12mm,1.07,264,Kaitsmed,Riiul A1
+,,,,,
+ABC00340,Kontaktor ABB 220V,4.25,398,Filtrid,Riiul A3
+,,,,,
+JKL00341,Andur IR proximity,41.08,451,Elektrilised osad,Riiul B1
+,,,,,
+STU00342,Õlifilter 12mm,1.35,479,Kaitsmed,Riiul A2
+,,,,,
+JKL00343,Kaitsmehoidja 10A,26.48,218,Andurid,Riiul D1
+,,,,,
+YZA00344,Toiteplokk 12V 5A,1.14,248,Kaitsmed,Riiul A1
+,,,,,
+BCD00345,Käigukast 5HP,55.1,325,Elektrilised osad,Riiul C3
+,,,,,
+MNO00346,Toiteplokk 12V 5A,324.83,146,Ülekandeseadmed,Riiul D1
+,,,,,
+GHI00347,Pumba tihend 30mm,5.41,381,Filtrid,Riiul F2
+,,,,,
+PQR00348,Laager SKF 608ZZ,4.23,120,Filtrid,Riiul C1
+,,,,,
+ABC00349,Laager SKF 608ZZ,8.83,397,Juhtmed,Riiul D1
+,,,,,
+PQR00350,Kontaktor ABB 220V,140.9,318,Elektrimootorid,Riiul D4
+,,,,,
+JKL00351,Laager SKF 608ZZ,128.2,218,Elektrimootorid,Riiul C1
+,,,,,
+BCD00352,Kontaktor ABB 220V,26.1,30,Andurid,Riiul C3
+,,,,,
+MNO00353,Käigukast 5HP (S12),9.05,81,Tihendid,Riiul C1
+,,,,,
+ABC00354,Laager SKF 608ZZ,14.18,218,Juhtmed,Riiul A3
+,,,,,
+GHI00355,Õlifilter 12mm (XL16),157.79,62,Elektrimootorid,Riiul G1
+,,,,,
+GHI00356,Kontaktor ABB 220V,2.95,383,Laagrid,Riiul B1
+,,,,,
+YZA00357,Kontaktor ABB 220V,367.67,436,Ülekandeseadmed,Riiul E1
+,,,,,
+VWX00358,Õlifilter 12mm,29.7,16,Andurid,Riiul A2
+,,,,,
+STU00359,Andur IR proximity,22.9,320,Andurid,Riiul A1
+,,,,,
+PQR00360,Pumba tihend 30mm,1.19,276,Kaitsmed,Riiul B1
+,,,,,
+STU00361,Toiteplokk 12V 5A,123.22,237,Elektrimootorid,Riiul A2
+,,,,,
+MNO00362,Kontaktor ABB 220V,11.58,343,Juhtmed,Riiul C2
+,,,,,
+DEF00363,Käigukast 5HP,16.63,10,Toiteplokid,Riiul D1
+,,,,,
+YZA00364,Õlifilter 12mm,281.36,474,Ülekandeseadmed,Riiul A2
+,,,,,
+JKL00365,Kaitsmehoidja 10A,1.39,345,Kaitsmed,Riiul D4
+,,,,,
+PQR00366,Käigukast 5HP,13.39,79,Toiteplokid,Riiul G1
+,,,,,
+ABC00367,Voolukaabel 5m,13.9,488,Juhtmed,Riiul F2
+,,,,,
+DEF00368,Voolukaabel 5m,20.55,53,Toiteplokid,Riiul G1
+,,,,,
+STU00369,Laager SKF 608ZZ,51.35,165,Elektrilised osad,Riiul B2
+,,,,,
+DEF00370,Mootor 220V,51.81,225,Elektrilised osad,Riiul C2
+,,,,,
+VWX00371,Pumba tihend 30mm,3.19,71,Laagrid,Riiul D1
+,,,,,
+PQR00372,Voolukaabel 5m,95.95,351,Elektrimootorid,Riiul F2
+,,,,,
+DEF00373,Õlifilter 12mm,8.71,41,Juhtmed,Riiul D1
+,,,,,
+DEF00374,Käigukast 5HP (XL6),12.83,42,Juhtmed,Riiul D4
+,,,,,
+YZA00375,Mootor 220V,1.44,494,Kaitsmed,Riiul A3
+,,,,,
+DEF00376,Toiteplokk 12V 5A,6.7,475,Filtrid,Riiul B2
+,,,,,
+VWX00377,Pumba tihend 30mm,1.14,100,Kaitsmed,Riiul F2
+,,,,,
+MNO00378,Käigukast 5HP (L19),3.88,356,Filtrid,Riiul B2
+,,,,,
+VWX00379,Toiteplokk 12V 5A,1.98,481,Laagrid,Riiul D1
+,,,,,
+ABC00380,Mootor 220V,37.81,476,Elektrilised osad,Riiul B2
+,,,,,
+GHI00381,Mootor 220V,8.44,108,Juhtmed,Riiul E1
+,,,,,
+DEF00382,Käigukast 5HP,11.83,481,Juhtmed,Riiul C1
+,,,,,
+GHI00383,Andur IR proximity,1.9,344,Kaitsmed,Riiul C2
+,,,,,
+JKL00384,Õlifilter 12mm,8.18,144,Tihendid,Riiul G1
+,,,,,
+YZA00385,Käigukast 5HP,10.93,430,Tihendid,Riiul B2
+,,,,,
+BCD00386,Mootor 220V,138.94,307,Elektrimootorid,Riiul B3
+,,,,,
+YZA00387,Andur IR proximity,1.88,384,Kaitsmed,Riiul F2
+,,,,,
+YZA00388,Käigukast 5HP,9.07,89,Tihendid,Riiul B2
+,,,,,
+ABC00389,Laager SKF 608ZZ (XL19),53.68,9,Elektrilised osad,Riiul C2
+,,,,,
+YZA00390,Andur IR proximity (L13),23.37,185,Toiteplokid,Riiul B3
+,,,,,
+BCD00391,Pumba tihend 30mm,14.15,94,Juhtmed,Riiul B2
+,,,,,
+JKL00392,Käigukast 5HP,1.89,203,Kaitsmed,Riiul A3
+,,,,,
+GHI00393,Pumba tihend 30mm,1.71,122,Kaitsmed,Riiul E1
+,,,,,
+GHI00394,Laager SKF 608ZZ,1.92,231,Kaitsmed,Riiul C2
+,,,,,
+VWX00395,Toiteplokk 12V 5A,229.59,153,Ülekandeseadmed,Riiul G1
+,,,,,
+YZA00396,Laager SKF 608ZZ,6.56,69,Filtrid,Riiul A3
+,,,,,
+PQR00397,Käigukast 5HP,19.16,160,Toiteplokid,Riiul D1
+,,,,,
+GHI00398,Laager SKF 608ZZ,21.04,221,Andurid,Riiul B1
+,,,,,
+GHI00399,Pumba tihend 30mm,357.33,415,Ülekandeseadmed,Riiul D1
+,,,,,
+BCD00400,Käigukast 5HP (L16),6.23,442,Filtrid,Riiul F2
+,,,,,
+PQR00401,Mootor 220V,2.77,460,Laagrid,Riiul A3
+,,,,,
+GHI00402,Toiteplokk 12V 5A,35.03,239,Elektrilised osad,Riiul A3
+,,,,,
+MNO00403,Kaitsmehoidja 10A,3.45,44,Laagrid,Riiul B3
+,,,,,
+ABC00404,Pumba tihend 30mm,24.1,386,Andurid,Riiul A2
+,,,,,
+ABC00405,Andur IR proximity,90.95,196,Elektrimootorid,Riiul F2
+,,,,,
+JKL00406,Mootor 220V,31.38,53,Andurid,Riiul C2
+,,,,,
+STU00407,Andur IR proximity,49.09,92,Elektrilised osad,Riiul D1
+,,,,,
+STU00408,Käigukast 5HP,11.79,362,Juhtmed,Riiul B2
+,,,,,
+DEF00409,Pumba tihend 30mm,7.57,288,Tihendid,Riiul F2
+,,,,,
+GHI00410,Toiteplokk 12V 5A,1.37,419,Kaitsmed,Riiul C1
+,,,,,
+YZA00411,Laager SKF 608ZZ,23.44,143,Andurid,Riiul C3
+,,,,,
+PQR00412,Käigukast 5HP,8.33,209,Tihendid,Riiul B2
+,,,,,
+BCD00413,Andur IR proximity,54.23,456,Elektrilised osad,Riiul B3
+,,,,,
+STU00414,Laager SKF 608ZZ,4.99,272,Filtrid,Riiul C2
+,,,,,
+STU00415,Kontaktor ABB 220V,16.85,161,Toiteplokid,Riiul B1
+,,,,,
+BCD00416,Kontaktor ABB 220V (XL20),3.09,364,Laagrid,Riiul A1
+,,,,,
+BCD00417,Voolukaabel 5m (S3),1.66,419,Kaitsmed,Riiul B3
+,,,,,
+ABC00418,Mootor 220V,1.19,227,Kaitsmed,Riiul B3
+,,,,,
+GHI00419,Mootor 220V (S11),20.8,374,Andurid,Riiul B3
+,,,,,
+GHI00420,Voolukaabel 5m,3.07,168,Laagrid,Riiul C2
+,,,,,
+PQR00421,Mootor 220V,302.05,45,Ülekandeseadmed,Riiul G1
+,,,,,
+ABC00422,Käigukast 5HP (L1),23.84,138,Toiteplokid,Riiul A1
+,,,,,
+MNO00423,Toiteplokk 12V 5A,22.67,139,Toiteplokid,Riiul B1
+,,,,,
+VWX00424,Andur IR proximity,5.2,466,Filtrid,Riiul D4
+,,,,,
+BCD00425,Laager SKF 608ZZ,3.91,11,Filtrid,Riiul D1
+,,,,,
+BCD00426,Toiteplokk 12V 5A,38.42,258,Elektrilised osad,Riiul A2
+,,,,,
+BCD00427,Pumba tihend 30mm,253.48,84,Ülekandeseadmed,Riiul D4
+,,,,,
+YZA00428,Laager SKF 608ZZ,31.83,175,Andurid,Riiul D1
+,,,,,
+BCD00429,Käigukast 5HP,23.78,406,Toiteplokid,Riiul B1
+,,,,,
+VWX00430,Õlifilter 12mm,55.77,460,Elektrilised osad,Riiul C1
+,,,,,
+MNO00431,Voolukaabel 5m (L14),1.67,37,Kaitsmed,Riiul E1
+,,,,,
+ABC00432,Toiteplokk 12V 5A,1.35,163,Kaitsmed,Riiul D4
+,,,,,
+ABC00433,Käigukast 5HP,58.35,47,Elektrilised osad,Riiul A2
+,,,,,
+JKL00434,Laager SKF 608ZZ,154.81,226,Elektrimootorid,Riiul C3
+,,,,,
+GHI00435,Voolukaabel 5m,3.2,357,Laagrid,Riiul C2
+,,,,,
+VWX00436,Õlifilter 12mm,28.51,167,Andurid,Riiul G1
+,,,,,
+MNO00437,Kontaktor ABB 220V,133.24,465,Elektrimootorid,Riiul D4
+,,,,,
+VWX00438,Toiteplokk 12V 5A,354.29,30,Ülekandeseadmed,Riiul E1
+,,,,,
+MNO00439,Kaitsmehoidja 10A,3.25,45,Laagrid,Riiul B2
+,,,,,
+DEF00440,Kontaktor ABB 220V,52.64,495,Elektrilised osad,Riiul D1
+,,,,,
+VWX00441,Andur IR proximity,16.18,182,Toiteplokid,Riiul B1
+,,,,,
+GHI00442,Laager SKF 608ZZ (L20),24.08,21,Toiteplokid,Riiul D1
+,,,,,
+DEF00443,Kaitsmehoidja 10A,313,351,Ülekandeseadmed,Riiul A3
+,,,,,
+MNO00444,Kontaktor ABB 220V,4.46,294,Filtrid,Riiul C3
+,,,,,
+YZA00445,Õlifilter 12mm,2.17,364,Laagrid,Riiul B3
+,,,,,
+STU00446,Laager SKF 608ZZ (XL20),14.12,175,Juhtmed,Riiul F2
+,,,,,
+DEF00447,Mootor 220V,3.54,266,Laagrid,Riiul B1
+,,,,,
+YZA00448,Voolukaabel 5m (L10),30.43,376,Andurid,Riiul G1
+,,,,,
+JKL00449,Pumba tihend 30mm,4.24,124,Filtrid,Riiul G1
+,,,,,
+JKL00450,Käigukast 5HP,3.13,209,Laagrid,Riiul G1
+,,,,,
+ABC00451,Laager SKF 608ZZ,288.69,191,Ülekandeseadmed,Riiul B3
+,,,,,
+YZA00452,Kaitsmehoidja 10A,366.88,28,Ülekandeseadmed,Riiul C2
+,,,,,
+ABC00453,Toiteplokk 12V 5A,6.01,308,Filtrid,Riiul B2
+,,,,,
+GHI00454,Kontaktor ABB 220V,96.93,70,Elektrimootorid,Riiul B1
+,,,,,
+VWX00455,Kaitsmehoidja 10A,1.61,487,Kaitsmed,Riiul C3
+,,,,,
+GHI00456,Toiteplokk 12V 5A (L14),6.2,52,Filtrid,Riiul A3
+,,,,,
+ABC00457,Mootor 220V (XL19),1.3,376,Kaitsmed,Riiul D1
+,,,,,
+YZA00458,Andur IR proximity,2.5,203,Laagrid,Riiul E1
+,,,,,
+STU00459,Õlifilter 12mm,4.64,152,Filtrid,Riiul G1
+,,,,,
+JKL00460,Toiteplokk 12V 5A,226.49,249,Ülekandeseadmed,Riiul A2
+,,,,,
+ABC00461,Toiteplokk 12V 5A (L6),382.37,137,Ülekandeseadmed,Riiul A2
+,,,,,
+GHI00462,Kontaktor ABB 220V,18.31,95,Toiteplokid,Riiul C2
+,,,,,
+JKL00463,Laager SKF 608ZZ,233.67,251,Ülekandeseadmed,Riiul A3
+,,,,,
+YZA00464,Kaitsmehoidja 10A,5.05,95,Filtrid,Riiul G1
+,,,,,
+GHI00465,Laager SKF 608ZZ,24.52,141,Andurid,Riiul C2
+,,,,,
+VWX00466,Pumba tihend 30mm,2.98,274,Laagrid,Riiul B2
+,,,,,
+GHI00467,Andur IR proximity (S4),16.62,163,Toiteplokid,Riiul A2
+,,,,,
+DEF00468,Toiteplokk 12V 5A,128.96,108,Elektrimootorid,Riiul E1
+,,,,,
+GHI00469,Õlifilter 12mm,2.62,368,Laagrid,Riiul G1
+,,,,,
+GHI00470,Laager SKF 608ZZ,15.71,205,Toiteplokid,Riiul A1
+,,,,,
+GHI00471,Andur IR proximity,29.4,321,Andurid,Riiul B2
+,,,,,
+YZA00472,Voolukaabel 5m,11.73,16,Tihendid,Riiul B1
+,,,,,
+VWX00473,Voolukaabel 5m (XL6),6.55,321,Filtrid,Riiul D1
+,,,,,
+JKL00474,Õlifilter 12mm (L8),2.83,449,Laagrid,Riiul F2
+,,,,,
+STU00475,Käigukast 5HP,3.37,439,Laagrid,Riiul D1
+,,,,,
+MNO00476,Kontaktor ABB 220V,9.9,216,Juhtmed,Riiul B3
+,,,,,
+GHI00477,Voolukaabel 5m,17.42,173,Toiteplokid,Riiul A2
+,,,,,
+DEF00478,Toiteplokk 12V 5A,19.52,197,Andurid,Riiul F2
+,,,,,
+ABC00479,Kontaktor ABB 220V,56.86,281,Elektrilised osad,Riiul A2
+,,,,,
+BCD00480,Kaitsmehoidja 10A,14.05,76,Juhtmed,Riiul C2
+,,,,,
+YZA00481,Toiteplokk 12V 5A,25.38,441,Andurid,Riiul D1
+,,,,,
+YZA00482,Kaitsmehoidja 10A,19.14,278,Andurid,Riiul A3
+,,,,,
+MNO00483,Õlifilter 12mm,19.79,204,Andurid,Riiul D4
+,,,,,
+MNO00484,Õlifilter 12mm,11.87,340,Tihendid,Riiul C2
+,,,,,
+ABC00485,Toiteplokk 12V 5A,22,11,Toiteplokid,Riiul C3
+,,,,,
+GHI00486,Laager SKF 608ZZ,6.93,25,Tihendid,Riiul A3
+,,,,,
+GHI00487,Kontaktor ABB 220V,4.04,477,Filtrid,Riiul A1
+,,,,,
+BCD00488,Mootor 220V (S4),12.52,84,Tihendid,Riiul E1
+,,,,,
+VWX00489,Kaitsmehoidja 10A,8.19,73,Tihendid,Riiul D1
+,,,,,
+STU00490,Pumba tihend 30mm,147,27,Elektrimootorid,Riiul E1
+,,,,,
+GHI00491,Laager SKF 608ZZ,2.84,83,Laagrid,Riiul C3
+,,,,,
+STU00492,Pumba tihend 30mm,1.62,429,Kaitsmed,Riiul C2
+,,,,,
+GHI00493,Kontaktor ABB 220V (XL19),157.11,380,Elektrimootorid,Riiul C2
+,,,,,
+VWX00494,Õlifilter 12mm,9.73,15,Juhtmed,Riiul G1
