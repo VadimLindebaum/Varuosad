@@ -27,7 +27,7 @@ function loadCsvToMemory() {
 
     const stream = fs.createReadStream(CSV_FILE)
       .on('error', (err) => reject(err))
-      .pipe(csv({ separator: ',', mapHeaders: ({ header }) => header.trim() }));
+      .pipe(csv({ separator: "\t", mapHeaders: ({ header }) => header.trim() }));
 
     stream.on('data', (row) => {
       // normalize keys: trim spaces
@@ -43,8 +43,15 @@ function loadCsvToMemory() {
         serial: row.serial || row.Serial || row.SERIAL || row['seerianumber'] || row['Seerianumber'] || row['seriaalinumber'] || row['Seriaalinumber'],
         name: row.name || row.Name || row.Nimi || row.nimi,
         // example numeric field parsing (if CSV has price/qty)
-        price: tryNumber(row.price || row.Price || row.hind),
-        qty: tryNumber(row.qty || row.Qty || row.quantity || row.Quantity)
+        werehouse: tryNumber(row.werehouse || row.werehouse),
+        werehouse1: tryNumber(row.werehouse1 || row.werehouse_1),
+        werehouse2: tryNumber(row.werehouse2 || row.werehouse_2),
+        werehouse3: tryNumber(row.werehouse3 || row.werehouse_3),
+        werehouse4: tryNumber(row.werehouse4 || row.werehouse_4),
+        qty: tryNumber(row.qty || row.Qty || row.quantity || row.Quantity),
+        minprice: tryNumber(row.minprice || row.minPrice || row.hind),
+        category: tryNumber(row.category || row.Category),
+        maxprice: tryNumber(row.maxprice || row.maxPrice || row.hind)
       };
 
       tempParts.push(part);
